@@ -1,0 +1,5 @@
+{
+  "name": "AI Voice HTML Interviewer",
+  "description": "An AI-driven voice-enabled interview system for HTML technical interviews with real-time scoring and feedback.",
+  "requestFramePermissions": ["microphone"]
+}
